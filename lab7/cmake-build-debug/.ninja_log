@@ -1,0 +1,15 @@
+# ninja log v6
+18	12033	7551849974337114	CMakeFiles/lab7.dir/src/part2/sours_file/WorldRegionPopulation.cpp.obj	3a6a7ce85935bab6
+15	13233	7551849207721652	CMakeFiles/lab7.dir/main.cpp.obj	b24cde8b6e629130
+12034	45099	7551850094502720	lab7.exe	4b29b2cc3878c4f4
+15	519	7551461580831032	CMakeFiles/lab7.dir/src/task1/sours_file/country.cpp.obj	12bd48df0b6f9b3a
+25	984	7550067614667314	CMakeFiles/lab7.dir/country.cpp.obj	d2823370e293d2d2
+6	9906	7550141876891514	CMakeFiles/lab7.dir/WorldPopulation.cpp.obj	766882fb57baf9a0
+41	355	7568714789857310	build.ninja	7df80d1d1076b438
+18	878	7551463559694858	CMakeFiles/lab7.dir/src/task1/sours_file/WorldPopulation.cpp.obj	884d9761a37d6e84
+15	502	7551515563657359	CMakeFiles/lab7.dir/src/part1/sours_file/country.cpp.obj	d4af5b39f5694d76
+20	882	7551543931755763	CMakeFiles/lab7.dir/src/part1/sours_file/readCountryFromFile.cpp.obj	d72e962291fb8857
+14	784	7551543931685726	CMakeFiles/lab7.dir/src/part1/sours_file/WorldPopulation.cpp.obj	6b99e23ed270e30
+23	793	7551511442955498	CMakeFiles/lab7.dir/src/part2/sours_file/readCountryFeatureFromFile.cpp.obj	7618e0e0b495693f
+27	641	7551511442985512	CMakeFiles/lab7.dir/src/part2/sours_file/CountryFeature.cpp.obj	b5a4b5706845f319
+13	1007	7551597942704226	CMakeFiles/lab7.dir/src/part2/sours_file/Program.cpp.obj	4e8920b31893d9c8
